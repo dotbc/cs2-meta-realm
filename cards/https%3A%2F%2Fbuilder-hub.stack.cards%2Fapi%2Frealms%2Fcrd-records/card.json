@@ -1,0 +1,20 @@
+{
+  "data": {
+    "attributes": {
+      "csDescription": "This is the CRD Records realm.",
+      "csId": "https://builder-hub.stack.cards/api/realms/crd-records",
+      "csTitle": "CRD Records Realm",
+      "remoteCacheDir": "crd-records-realm",
+      "remoteUrl": "https://github.com/cardstack/crd-records.git"
+    },
+    "relationships": {
+      "csAdoptsFrom": {
+        "data": {
+          "id": "https://base.cardstack.com/public/cards/git-realm",
+          "type": "cards"
+        }
+      }
+    },
+    "type": "cards"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "attributes": {
+      "csDescription": "This is the Deezer realm",
+      "csId": "https://builder-hub.stack.cards/api/realms/deezer",
+      "csTitle": "Deezer Realm",
+      "remoteCacheDir": "deezer-realm",
+      "remoteUrl": "https://github.com/dotbc/deezer.git"
+    },
+    "relationships": {
+      "csAdoptsFrom": {
+        "data": {
+          "id": "https://base.cardstack.com/public/cards/git-realm",
+          "type": "cards"
+        }
+      }
+    },
+    "type": "cards"
+  }
+}

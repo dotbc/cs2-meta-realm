@@ -1,0 +1,20 @@
+{
+  "data": {
+    "attributes": {
+      "csDescription": "This is the Warner Chappell Music realm",
+      "csId": "https://builder-hub.stack.cards/api/realms/warner-chappell-music",
+      "csTitle": "Warner Chappell Music Realm",
+      "remoteCacheDir": "warner-chappell-music-realm",
+      "remoteUrl": "https://github.com/dotbc/warner-chappell-music.git"
+    },
+    "relationships": {
+      "csAdoptsFrom": {
+        "data": {
+          "id": "https://base.cardstack.com/public/cards/git-realm",
+          "type": "cards"
+        }
+      }
+    },
+    "type": "cards"
+  }
+}
